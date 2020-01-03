@@ -219,4 +219,12 @@ Eclipse, Sublime, IntelliJ (через кастомную версию GoLand), 
 ### Поддерживает ли Go сериализацию protocol buffers от Google?
 
 Отдельный проект с открытым исходным кодом предоставляет необходимый плагин компилятора и библиотеку.
-Он доступен по ссылке [github.com/golang/protobuf/](https://github.com/golang/protobuf). 
+Он доступен по ссылке [github.com/golang/protobuf/](https://github.com/golang/protobuf)
+
+### Могу ли я перевести домашнюю страницу Go на другой язык?
+
+Конечно. Мы призываем разработчиков создавать сайты языка Go на своих родных языках.
+Однако, если вы решили добавить логотип или брендинг Google на свой сайт (он не присутствует на
+[golang.org](https://golang.org/)), вы должны будете соблюдать правила, изложенные на сайте
+[www.google.com/permissions/guidelines.html](https://www.google.com/permissions/guidelines.html)
+
